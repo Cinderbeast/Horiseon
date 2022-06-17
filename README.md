@@ -1,14 +1,11 @@
 Horiseon
 
 This project is meant to restructure/refactor the HTML and CSS of Horiseon's web page/application to improve operations without altering functionality
-https://github.com/Cinderbeast/Horiseon#horiseon
-<!-- screencapture-Cinderbeast-github-io-horiseon-2020-05-23-23_12_47.pdf) ***THIS NEEDS FIXED****- -->
+
 
 Getting Started
 
-You can find this site published on : https://Cinderbeast.github.io/horiseon/
-You can find the repository here:     https://github.com/Cinderbeast/horiseon
-Prerequisites
+Prerequisite
 
 Use up todate browser such as Google Chrome, Microsoft Edge, Mozilla Firefox
 
