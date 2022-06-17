@@ -46,8 +46,8 @@ Consolidated search engine optimization, online rep management, social media mar
 
 Used the following tools:
 
-VS Code
-Gitbash
-Github
+VS Code, 
+Gitbash,
+Github,
 Google
 
