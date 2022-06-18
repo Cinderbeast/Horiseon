@@ -17,32 +17,23 @@ Changed Title from to “Horiseon”
 
 Link for search optimization button not working, fixed
 
-Changed div to semantic header
-
 Added spacing to look cleaner
 
 Added alt ids for images that were explainable via text
-
-Replaced divs with aside semantic
-
-Replaced div with footer semantic
-
-Replaced divs with article semantic
 
 Added alt to aside images
 
 
 CSS
 
-Consolidated h3 class styling
+Combinded h3 class styling
 
-Consolidated images styling
+Combinded h3 images styling
 
-Consolidated benefit lead, benefit brand, benefit cost styling
+Combinded benefit lead, benefit brand, benefit cost styling
+Combinded benefit lead img, benefit brand img, benefit cost img styling
 
-Consolidated benefit lead img, benefit brand img, benefit cost img styling
-
-Consolidated search engine optimization, online rep management, social media marketing styling
+Combinded search engine optimization, online rep management, social media marketing styling
 
 Used the following tools:
 
@@ -50,4 +41,4 @@ VS Code,
 Gitbash,
 Github,
 Google
-
+W3 School
